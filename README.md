@@ -1,6 +1,6 @@
 # 💸 Bank Marketing - Análise Exploratória de Dados
 
-Este projeto será baseado no Dataset Bank Marketing encontrado na UC Irvine - Machine Learning Repository e disponibilizado por S. Moro, R. Laureano e P. Cortez, e pode ser encontrado neste [link](https://archive.ics.uci.edu/dataset/222/bank+marketing).
+Este projeto será baseado no Dataset Bank Marketing encontrado na UC Irvine - Machine Learning Repository e disponibilizado por S. Moro, R. Laureano e P. Cortez, e pode ser encontrado neste [link](https://archive.ics.uci.edu/dataset/222/bank+marketing). Você encontra esse projeto também no [Medium](https://medium.com/@datalopes1/bank-marketing-uma-an%C3%A1lise-explorat%C3%B3ria-de-dados-640c97df2bdd)
 ### 🛠️ Ferramentas utilizadas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -185,4 +185,4 @@ Ligações que passam de 3 minutos tem maior chance de terminar uma contrataçã
 
 ![img](https://camo.githubusercontent.com/8365c5e11ea829286c7975c86d2f06bd509d7714e53784345816dfe92f5e7d9f/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f2d313631363830333134303334342d3636383261666231336364613f713d383026773d32303730266175746f3d666f726d6174266669743d63726f702669786c69623d72622d342e302e3326697869643d4d3377784d6a4133664442384d48787761473930627931775957646c664878386647567566444238664878386641253344253344)
 
-Ao fim foi possível traçar um perfil de clientes em potencial para contratação de serviços do banco, além de buscar entender fatores que possam aumentar a efetivividade das próximas campanhas. Entender o comportamento dos consumidores e o seu perfil é excencial para auxiliar o marketing a otimizar seus resultados e diminuir seus custos, além de naturalmente aumentar os resultados comerciais.
+Ao fim foi possível traçar um perfil de clientes em potencial para contratação de serviços do banco, além de buscar entender fatores que possam aumentar a efetividade das próximas campanhas. Entender o comportamento dos consumidores e o seu perfil é essencial para auxiliar o marketing a otimizar seus resultados e diminuir seus custos, além de naturalmente aumentar os resultados comerciais.
